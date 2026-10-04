@@ -1,0 +1,5 @@
+*.log
+build/
+.vdcode/
+.env
+.DS_Store
