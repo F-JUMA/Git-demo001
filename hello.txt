@@ -5,3 +5,4 @@ third line added in feature-1.
 5th line added from remote.
 6th line added from remoe repo.
 7th line added from remote.
+8th line added from remote to local
